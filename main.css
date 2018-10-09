@@ -2,8 +2,11 @@ body, html {
      height:100%;
 }
 
+
 .gradient {
     height:100%;
+	
+	
 	width: 100%;
     background: linear-gradient(#342009 0%, red 30%);
     background-size: cover;
